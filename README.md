@@ -11,8 +11,8 @@ I focus on system efficiency, technical troubleshooting, and exploring the world
 ---
 ### 🗣️ Languages
 - **Turkish:** Native
-- **Arabic:** Native/Bilingual
 - **English:** Professional Working Proficiency
+- **Arabic:** Native/Bilingual
 - **German:** Currently Learning (Goal: B2/C1 by 2028)
 
 ---
