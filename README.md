@@ -4,7 +4,7 @@
 I am currently transitioning from a background in Crime Scene Investigation to the field of Information Technology.
 I focus on system efficiency, technical troubleshooting, and exploring the world of SaaS and cloud-based solutions.
 
-- 🌱 **Currently Learning:** Python (Day 7), IT Fundamentals, and SaaS models.
+- 🌱 **Currently Learning:** Python, IT Fundamentals, and SaaS models.
 - 🎯 **Goal:** Relocating to Germany in 2028 to pursue a degree in Information Technology (IT).
 - 💻 **Interests:** System Optimization, SaaS Development, and PC Hardware.
 
