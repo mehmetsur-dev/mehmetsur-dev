@@ -1,19 +1,28 @@
-# Hi, I'm Mehmet Sur 👋
+Hi, I'm Mehmet Sur 👋
 
-### 🚀 Aspiring IT Specialist | Python Learner | SaaS Enthusiast
-I am currently transitioning from a background in Crime Scene Investigation to the field of Information Technology.
-I focus on system efficiency, technical troubleshooting, and exploring the world of SaaS and cloud-based solutions.
-
-- 🌱 **Currently Learning:** Python, IT Fundamentals, and SaaS models.
-- 🎯 **Goal:** Relocating to Germany in 2028 to pursue a degree in Information Technology (IT).
-- 💻 **Interests:** System Optimization, SaaS Development, and PC Hardware.
+🚀 Aspiring Software Engineer | Python & Systems Developer | Web Utilities
 
 ---
-### 🗣️ Languages
-- **Turkish:** Native
-- **English:** Professional Working Proficiency
-- **Arabic:** Native/Bilingual
-- **German:** Currently Learning (Goal: B2/C1 by 2028)
+
+I am a developer focused on software engineering, system efficiency,
+and building robust digital tools. Moving forward from my academic background,
+I dedicate my time to mastering core programming logic, algorithms, writing clean code, and understanding software architecture.
+
+---
+
+🌱 **Currently Learning:** Python, Software Engineering Principles, and Web Utilities.
+
+🎯 **Goal:** Relocating to Germany (2027/2028) to pursue a degree in Computer Science / Software Engineering.
+
+💻 **Interests:** Software Architecture, Clean Code Practices, and Development Automation.
+
+---
+
+🗣️ **Languages**
+* **Turkish:** Native
+* **English:** Professional Working Proficiency
+* **Arabic:** Native/Bilingual
+* **German:** Currently Learning (Goal: B2/C1 by 2027/2028)
 
 ---
 ### 🛠️ My Tech Stack (Starting out!)
