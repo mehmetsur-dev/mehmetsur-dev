@@ -22,7 +22,7 @@ I dedicate my time to mastering core programming logic, algorithms, writing clea
 * **Turkish:** Native
 * **English:** Professional Working Proficiency
 * **Arabic:** Native/Bilingual
-* **German:** Currently Learning (Goal: B2/C1 by 2027/2028)
+* **German:** Currently Learning (Goal: B2/C1 by 2028)
 
 ---
 ### 🛠️ My Tech Stack (Starting out!)
