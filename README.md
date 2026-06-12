@@ -25,7 +25,9 @@ I dedicate my time to mastering core programming logic, algorithms, writing clea
 * **German:** Currently Learning (Goal: B2/C1 by 2028)
 
 ---
-### 🛠️ My Tech Stack (Starting out!)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS-Project-blueviolet?style=for-the-badge)
+## 🛠️ My Tech Stack (Starting out!)
+![PYTHON](https://img.shields.io/badge/PYTHON-...) 
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/WINDOWS-...)
+![SAAS](https://img.shields.io/badge/SAAS-...)
+![PROJECT](https://img.shields.io/badge/PROJECT-...)
