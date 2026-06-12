@@ -26,8 +26,8 @@ I dedicate my time to mastering core programming logic, algorithms, writing clea
 
 ---
 ## 🛠️ My Tech Stack (Starting out!)
-![PYTHON](https://img.shields.io/badge/PYTHON-...) 
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![WINDOWS](https://img.shields.io/badge/WINDOWS-...)
-![SAAS](https://img.shields.io/badge/SAAS-...)
-![PROJECT](https://img.shields.io/badge/PROJECT-...)
+![WINDOWS](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
