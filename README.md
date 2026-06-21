@@ -1,29 +1,23 @@
 Hi, I'm Mehmet Sur 👋
-
-🚀 Aspiring Software Engineer | Python & Systems Developer | Web Utilities
-
+🚀 Self-Taught Python Developer | Aspiring Junior Software Engineer
 ---
-
-I am a developer focused on software engineering, system efficiency,
-and building robust digital tools. Moving forward from my academic background,
-I dedicate my time to mastering core programming logic, algorithms, writing clean code, and understanding software architecture.
-
+I'm a self-taught developer working through a structured, daily Python curriculum —
+from core programming fundamentals through SQL, Git, and (soon) web frameworks.
+Coming from a background in physical trades and e-commerce, I bring real-world
+discipline and problem-solving experience to writing clean, reliable code.
 ---
-
-🌱 **Currently Learning:** Python, Software Engineering Principles, and Web Utilities.
-
-🎯 **Goal:** Relocating to Germany (2027/2028) to pursue a degree in Computer Science / Software Engineering.
-
-💻 **Interests:** Software Architecture, Clean Code Practices, and Development Automation.
-
+🌱 **Currently Learning:** Python, SQL (PostgreSQL), Git — working toward Django, APIs, and deployment.
+🎯 **Goal:** Junior Python Developer role in Germany by 2028.
+💻 **Interests:** Backend development, databases, and clean code practices.
 ---
-
+📂 **Follow my daily progress:** [Python-Journey](https://github.com/mehmetsur-dev/Python-Journey) — daily commits, SQL challenges, and project work as I build toward the goal.
+---
 🗣️ **Languages**
 * **Turkish:** Native
 * **English:** Professional Working Proficiency
 * **Arabic:** Native/Bilingual
-* **German:** Currently Learning (Goal: B2/C1 by 2028)
-
+* **Turkmen:** Native/Bilingual
+* **German:** Currently Learning (Goal: B2 by 2028)
 ---
 ## 🛠️ My Tech Stack (Starting out!)
 ![PYTHON](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=black)
