@@ -11,9 +11,13 @@ discipline and problem-solving experience to writing clean, reliable code.
 ---
 
 🌱 **Currently Learning:** Python, SQL (PostgreSQL), Git — working toward Django, APIs, and deployment.
+
 🎯 **Goal:** Junior Python Developer role in Germany by 2028.
+
 💻 **Interests:** Backend development, databases, and clean code practices.
+
 ---
+
 📂 **Follow my daily progress:** [Python-Journey](https://github.com/mehmetsur-dev/Python-Journey) — daily commits, SQL challenges, and project work as I build toward the goal.
 
 ---
