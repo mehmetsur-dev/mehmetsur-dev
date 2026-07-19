@@ -10,7 +10,7 @@ discipline and problem-solving experience to writing clean, reliable code.
 
 ---
 
-🌱 **Currently Learning:** Python, SQL (PostgreSQL), Git — working toward Django, APIs, and deployment.
+🌱 **Currently Learning:** Django, APIs, and deployment.
 
 🎯 **Goal:** Junior Python Developer role in Germany by 2028.
 
