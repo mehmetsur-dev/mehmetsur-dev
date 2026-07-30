@@ -4,8 +4,7 @@
 ---
 
 I'm a self-taught developer working through a structured, daily Python curriculum —
-from core programming fundamentals through SQL, Git, and (soon) web frameworks.
-Coming from a background in physical trades and e-commerce, I bring real-world
+from core programming fundamentals through SQL, Git, and (soon) web frameworks, I bring real-world
 discipline and problem-solving experience to writing clean, reliable code.
 
 ---
