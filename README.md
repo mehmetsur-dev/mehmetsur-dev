@@ -1,5 +1,5 @@
 ### Hi, I'm Mehmet Sur 👋
-🚀 Self-Taught Python Developer | Aspiring Junior Software Engineer
+🚀 Self-Taught Python Developer
 
 ---
 
