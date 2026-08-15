@@ -11,7 +11,7 @@ discipline and problem-solving experience to writing clean, reliable code.
 
 🌱 **Currently Learning:** APIs, Django, and deployment, AI tools.
 
-🎯 **Goal:** Junior Python Developer role in Germany by 2028.
+🎯 **Goal:** Python Developer role in Germany by 2028.
 
 💻 **Interests:** Backend development, databases, and clean code practices.
 
