@@ -8,7 +8,7 @@ discipline and problem-solving experience to writing clean, reliable code.
 
 ---
 
-🌱 **Currently Learning:** APIs, Django, and deployment, AI tools.
+🌱 **Currently Learning:** APIs, Django, deployment, and AI tools.
 
 🎯 **Goal:** Python Developer role in Germany by 2028.
 
