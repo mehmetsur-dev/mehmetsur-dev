@@ -29,7 +29,7 @@ discipline and problem-solving experience to writing clean, reliable code.
 
 ---
 
-## 🛠️ My Tech Stack (Starting out!)
+## 🛠️ My Tech Stack (Starting out!).
 ![PYTHON](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/WINDOWS-E53935?style=for-the-badge&logo=windows&logoColor=white)
