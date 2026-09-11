@@ -16,7 +16,7 @@ discipline and problem-solving experience to writing clean, reliable code.
 
 ---
 
-📂 **Follow my daily progress:** [Python-Journey](https://github.com/mehmetsur-dev/Python-Journey) — daily commits, and project work as I build toward the goal.
+📂 **Follow my daily progress:** [Python-Journey](https://github.com/mehmetsur-dev/Python-Journey) — daily commits, and project work.
 
 ---
 
